@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33617.297
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploWarningWave7", "ExemploWarningWave7.csproj", "{4A443DAE-86CC-4D88-B2C8-A1A14F68D2BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A443DAE-86CC-4D88-B2C8-A1A14F68D2BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A443DAE-86CC-4D88-B2C8-A1A14F68D2BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A443DAE-86CC-4D88-B2C8-A1A14F68D2BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A443DAE-86CC-4D88-B2C8-A1A14F68D2BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92FB65B2-3DD5-4256-937F-D0CA959837BD}
+	EndGlobalSection
+EndGlobal
